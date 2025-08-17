@@ -1,8 +1,8 @@
 import sys
 
 
-STATUSES = ("Open", "Closed Avoided", "Closed Accepted")
-RATINGS = ("High", "Medium", "Low")
+STATUSES = ["Open", "Closed Avoided", "Closed Accepted"]
+RATINGS = ["High", "Medium", "Low"]
 INVALID = "Invalid command"
 
 
